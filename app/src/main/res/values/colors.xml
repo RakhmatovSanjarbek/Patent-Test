@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_for_screen">#E6E8F2</color> <!-- siz bergan rang -->
+    <color name="screen_background">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="light_gray">#EDEDED</color>
+    <color name="color_gray">#E4E4E9</color>
+    <color name="dark_gray">#FF444444</color>
+
+    <!-- Yashil ohanglar -->
+    <color name="green">#4CAF50</color>
+    <color name="light_green">#C8E6C9</color>
+    <color name="dark_green">#388E3C</color>
+
+    <!-- Qizil ohanglar -->
+    <color name="red">#F44336</color>
+    <color name="light_red">#FFCDD2</color>
+    <color name="dark_red">#D32F2F</color>
+
+    <!-- Asosiy Moviy ohanglar -->
+    <color name="blue">#2196F3</color> <!-- Material Blue -->
+    <color name="light_blue">#BBDEFB</color>
+    <color name="light_blue25">#400B29AF</color>
+    <color name="dark_blue">#1976D2</color>
+    <color name="color_blue">#0D30D3</color> <!-- siz kiritgan rang -->
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Патент Тест</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_main_screen_title">Онлайн-тренажёр для подготовки к экзамену по русскому языку для получения патента.</string>
+    <string name="str_main_screen_description">ВНИМАНИЕ! 22.01.2025 добавлен ВАРИАНТ №6. Для успешной сдачи экзамена обязательно пройдите все варианты! Задания обновлены и полностью актуальны на 2025 год.</string>
+    <string name="str_first_variant">Вариант 1</string>
+    <string name="str_second_variant">Вариант 2</string>
+    <string name="str_third_variant">Вариант 3</string>
+    <string name="str__forth_variant">Вариант 4</string>
+    <string name="str_fifth_variant">Вариант 5</string>
+    <string name="str_sixth_variant">Вариант 6</string>
+    <string name="str_next_question">Следующий вопрос</string>
+    <string name="str_finish_test">Завершить тест</string>
+    <string name="str_write_answer">Напишите свой ответ</string>
+    <string name="str_audio_control">0:00 / 0:00</string>
+</resources>
